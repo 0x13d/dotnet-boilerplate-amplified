@@ -79,42 +79,6 @@
       "version": ""
     },
     {
-      "type": "ManagedReference",
-      "source_relative_path": "build/api/DotnetAmplified.Class1.yml",
-      "output": {
-        ".html": {
-          "relative_path": "build/api/DotnetAmplified.Class1.html",
-          "hash": "V+hs+E8e9kjdqVpCN6aCAQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "build/api/DotnetAmplified.yml",
-      "output": {
-        ".html": {
-          "relative_path": "build/api/DotnetAmplified.html",
-          "hash": "wzrtVbnl2+YZp4q8PnS7gw=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Toc",
-      "source_relative_path": "build/api/toc.yml",
-      "output": {
-        ".html": {
-          "relative_path": "build/api/toc.html",
-          "hash": "ew2LJy2x0ydsUKF7rux4HQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
       "type": "Conceptual",
       "source_relative_path": "index.md",
       "output": {
@@ -157,12 +121,6 @@
           "can_incremental": false,
           "incrementalPhase": "build",
           "total_file_count": 6,
-          "skipped_file_count": 0
-        },
-        "ManagedReferenceDocumentProcessor": {
-          "can_incremental": false,
-          "incrementalPhase": "build",
-          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

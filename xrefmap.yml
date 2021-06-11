@@ -1,15 +1,3 @@
 ### YamlMime:XRefMap
 sorted: true
-references:
-- uid: DotnetAmplified
-  name: DotnetAmplified
-  href: build/api/DotnetAmplified.html
-  commentId: N:DotnetAmplified
-  fullName: DotnetAmplified
-  nameWithType: DotnetAmplified
-- uid: DotnetAmplified.Class1
-  name: Class1
-  href: build/api/DotnetAmplified.Class1.html
-  commentId: T:DotnetAmplified.Class1
-  fullName: DotnetAmplified.Class1
-  nameWithType: Class1
+references: []

@@ -9,58 +9,103 @@
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "CJ9xDxfd1GRJcyUeho84RQ=="
+          "hash": "wPOP+Imsj8sw87mWc0bSaQ=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "articles/CHANGELOG.md",
+      "type": "ManagedReference",
+      "source_relative_path": "api/api.Data.WeatherForecast.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/CHANGELOG.html",
-          "hash": "qM/zzbY+22zyBuhHwj75Fg=="
+          "relative_path": "api/api.Data.WeatherForecast.html",
+          "hash": "OMJjX73rAkFUp9/sScMhjA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "articles/QUICKSTART.md",
+      "type": "ManagedReference",
+      "source_relative_path": "api/api.Data.WeatherForecastService.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/QUICKSTART.html",
-          "hash": "5lPsICf7aBePg77PzeUZWw=="
+          "relative_path": "api/api.Data.WeatherForecastService.html",
+          "hash": "L0b1gxa01dsACbsy9gDzPA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "type": "Conceptual",
-      "source_relative_path": "articles/README.md",
+      "type": "ManagedReference",
+      "source_relative_path": "api/api.Data.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/README.html",
-          "hash": "cb4Sq3zVE+dIwSwtbJ6/0Q=="
+          "relative_path": "api/api.Data.html",
+          "hash": "7kxFnZvx7lswvUDGUXUazA=="
         }
       },
       "is_incremental": false,
       "version": ""
     },
     {
-      "log_codes": [
-        "InvalidFileLink"
-      ],
-      "type": "Conceptual",
-      "source_relative_path": "articles/TESTING.md",
+      "type": "ManagedReference",
+      "source_relative_path": "api/api.Pages.ErrorModel.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/TESTING.html",
-          "hash": "1b/A1Feo9CKnappBHj09aA=="
+          "relative_path": "api/api.Pages.ErrorModel.html",
+          "hash": "F9QWN8FaD7aK7S7wwa0Qnw=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/api.Pages.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/api.Pages.html",
+          "hash": "RAqa+c73sZ7lc02htHWS9A=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/api.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/api.Program.html",
+          "hash": "Gn88XbHmIlKKhW417ARhMg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/api.Startup.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/api.Startup.html",
+          "hash": "5afstRB+9aYAvBDZqcEA6Q=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/api.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/api.html",
+          "hash": "Fy2V7q7vPIxsig8X5TSqnA=="
         }
       },
       "is_incremental": false,
@@ -68,23 +113,11 @@
     },
     {
       "type": "Toc",
-      "source_relative_path": "articles/toc.yml",
+      "source_relative_path": "api/toc.yml",
       "output": {
         ".html": {
-          "relative_path": "articles/toc.html",
-          "hash": "1pe/YbiZGMWZmLJ2q0JMYQ=="
-        }
-      },
-      "is_incremental": false,
-      "version": ""
-    },
-    {
-      "type": "Conceptual",
-      "source_relative_path": "index.md",
-      "output": {
-        ".html": {
-          "relative_path": "index.html",
-          "hash": "HeLhp+5DXq54Sp4YvdHmBA=="
+          "relative_path": "api/toc.html",
+          "hash": "GodfYUxn03Ta4n9o3eoGKQ=="
         }
       },
       "is_incremental": false,
@@ -96,7 +129,7 @@
       "output": {
         ".html": {
           "relative_path": "toc.html",
-          "hash": "gMNxup5XA7NAwOTeLmsslA=="
+          "hash": "PH7xjrvWIGZZDw8DIBn5mg=="
         }
       },
       "is_incremental": false,
@@ -117,7 +150,13 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 6,
+          "total_file_count": 1,
+          "skipped_file_count": 0
+        },
+        "ManagedReferenceDocumentProcessor": {
+          "can_incremental": false,
+          "incrementalPhase": "build",
+          "total_file_count": 8,
           "skipped_file_count": 0
         },
         "TocDocumentProcessor": {

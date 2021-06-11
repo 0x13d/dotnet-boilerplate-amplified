@@ -8,7 +8,7 @@
           "src": "./src"
         }
       ],
-      "dest": "build/api",
+      "dest": "api",
       "disableGitFeatures": false,
       "disableDefaultFilter": false
     }

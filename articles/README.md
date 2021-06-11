@@ -1,2 +1,11 @@
-# SharpHoundCommon
-Common library used by SharpHound. 
+# DOTNET.Amplified
+
+## Abstract
+
+## Problem Statement
+
+## Solution Approach
+
+## FAQ
+
+## References

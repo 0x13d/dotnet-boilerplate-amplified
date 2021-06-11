@@ -2,3 +2,7 @@
   href: articles/
 - name: Api Documentation
   href: api/
+- name: Testing
+  href: TESTING.md
+- name: ChangeLog
+  href: CHANGELOG.md

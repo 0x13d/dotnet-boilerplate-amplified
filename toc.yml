@@ -1,7 +1,3 @@
-- name: Testing
-  href: TESTING.md
-- name: ChangeLog
-  href: CHANGELOG.md
 - name: Read Me
   href: README.md
   homepage: README.md

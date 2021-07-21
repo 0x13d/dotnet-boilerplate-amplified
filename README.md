@@ -5,30 +5,42 @@ A batteries included best practices for .NET5 and middleware configured to expos
 
 ## Tech Stack
 
-### NET5
+### Frameworks & Tools
 
-### Blazor
+#### NET5
 
-### Coverlet
+#### Blazor
 
-### BenchmarkDotnet
+#### Coverlet
 
-### Docfx
+#### BenchmarkDotnet
 
-### Report Generator Tool
+#### Docfx
 
-### Githubs with ACT
+#### Report Generator Tool
 
-### MS Fluent UI
+### Github Actions w/ ACT
 
-### xStateJs
+#### MS Fluent UI
 
-### Azure *
-
-### Aws *
+#### xStateJs
 
 #### PowerBI
 
 ## Integrations
 
-* Swaggerhub
+### Swaggerhub
+
+### Postman
+
+### Jwt.ms
+
+### Codeandbox w/ xState Visualizer
+
+### DEV/QA Pipelines
+
+## Host/Cloud Providers
+
+### Azure *
+
+### Aws *

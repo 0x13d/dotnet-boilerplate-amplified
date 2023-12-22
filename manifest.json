@@ -5,11 +5,23 @@
   "files": [
     {
       "type": "Conceptual",
+      "source_relative_path": "CHANGELOG.md",
+      "output": {
+        ".html": {
+          "relative_path": "CHANGELOG.html",
+          "hash": "wFhSlmgCqDxa3NRK53YNvg=="
+        }
+      },
+      "is_incremental": false,
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
       "source_relative_path": "README.md",
       "output": {
         ".html": {
           "relative_path": "README.html",
-          "hash": "MmFJEDN0ZsWqdd66hJapJw=="
+          "hash": "lRjsVy2dYS27eK2DYacO7Q=="
         }
       },
       "is_incremental": false,
@@ -21,7 +33,7 @@
       "output": {
         ".html": {
           "relative_path": "api/api.Data.WeatherForecast.html",
-          "hash": "1R9BDyOnm4HLyidSaXXYSQ=="
+          "hash": "Eeo8Jx7VzrN9V9UP98FrZw=="
         }
       },
       "is_incremental": false,
@@ -33,7 +45,7 @@
       "output": {
         ".html": {
           "relative_path": "api/api.Data.WeatherForecastService.html",
-          "hash": "rmKw+uP8zI/powfjcIKwPA=="
+          "hash": "mXiCRpH80RfJ4ZbIs+zl6Q=="
         }
       },
       "is_incremental": false,
@@ -57,7 +69,7 @@
       "output": {
         ".html": {
           "relative_path": "api/api.Pages.ErrorModel.html",
-          "hash": "0M/0WWaTHq9dRK3lvbDCjw=="
+          "hash": "ngLe00x6/tGWF8QTknV6Fg=="
         }
       },
       "is_incremental": false,
@@ -81,7 +93,7 @@
       "output": {
         ".html": {
           "relative_path": "api/api.Program.html",
-          "hash": "3z80kGNanrIey8RvzkHlDg=="
+          "hash": "wgp2KUB7HCni3YpgS/3IIQ=="
         }
       },
       "is_incremental": false,
@@ -93,7 +105,7 @@
       "output": {
         ".html": {
           "relative_path": "api/api.Startup.html",
-          "hash": "Z4DsICvonbqMF4bzwOR+aA=="
+          "hash": "nPrioLlZw7Sqt+m0QUFg6Q=="
         }
       },
       "is_incremental": false,
@@ -150,7 +162,7 @@
         "ConceptualDocumentProcessor": {
           "can_incremental": false,
           "incrementalPhase": "build",
-          "total_file_count": 1,
+          "total_file_count": 2,
           "skipped_file_count": 0
         },
         "ManagedReferenceDocumentProcessor": {
